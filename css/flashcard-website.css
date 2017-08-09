@@ -1,7 +1,15 @@
+/*Hide elements given to this class.
+Hides the image by default */
+
 .hiddy {
   display: none;
 }
 
+
+/*Display elements given to this class*/
+
 .showMe {
   display: block;
 }
+
+
