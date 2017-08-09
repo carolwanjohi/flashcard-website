@@ -1,33 +1,7 @@
-/*Hide elements given to this class.
-Hides the image by default */
-
 .hiddy {
   display: none;
 }
 
-
-/*Display elements given to this class*/
-
 .showMe {
   display: block;
 }
-
-
-/*p {
-  font-size: 20px
-}
-
-.green-background {
-  background-color: #E8F6F3;
-  border: 3px solid #17A589;
-}
-
-.yellow-background {
-  background-color: #FEF9E7;
-  border: 3px solid #F1C40F;
-}
-
-.red-background {
-  background-color: #F9EBEA;
-  border: 3px solid #7B241C;
-}*/
