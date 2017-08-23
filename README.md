@@ -1,5 +1,3 @@
-# flashcard-website
-
 # Flashcard Website
 
 ## This is a flashcard website, Aug 2017
